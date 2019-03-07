@@ -5,10 +5,10 @@ Pod::Spec.new do |s|
   s.version      = "1.0.6"
   s.summary      = "EasyNavigation"
   s.description  = "EasyNavigation"
-  s.homepage     = "https://github.com/errnull/EasyNavigation"
+  s.homepage     = "https://github.com/iOSCopder/EasyNavigation"
   s.license      = "MIT"
-  s.author       = { "errnull" => "errnull.top@gmail.com" }
-  s.source       = { :git => "https://github.com/errnull/EasyNavigation.git", :tag => "#{s.version}" }
+  s.author       = { "iOSCopder" => "iOSCopder.github.io" }
+  s.source       = { :git => "https://github.com/iOSCopder/EasyNavigation.git", :tag => "#{s.version}" }
   s.source_files  = "EasyNavigation", "EasyNavigation/**/*.{h,m}"
   s.resource     = 'EasyNavigation/EasyNavButton.bundle'
   s.resources = "EasyNavigation/**/*.bundle"
